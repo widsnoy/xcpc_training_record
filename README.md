@@ -31,7 +31,7 @@
 - [x] 3747: [POI2015]Kinoman  参考树状数组数区间颜色，扫描线，第二次出现设为 -w, 再之后设为 0, 线段树求最大的线段  
 - [x] 3526: [Poi2014]Card  按线段树合并的顺序 DP ？  
 3102: Sgu512 Friendly Points  
-- [x] 4017: 小Q的无敌异或  拆位，判断借位只用比较低位大小
+- [x] 4017: 小Q的无敌异或  拆位，判断借位只用比较低位大小  
 4384: [POI2015]Trzy wie?e  
 3133: [Baltic2013]ballmachine  
 2491: Quelling Blade  
