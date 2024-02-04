@@ -13,10 +13,10 @@
 4118: [Wf2015]Window Manager  
 
 ### 数学
-5027: 数学题  
+- [x] 5027: 数学题  
 4789: [CERC2016]Convex Contour  
 4064: [Cerc2012]The Dragon and the knights  
-4277: [ONTAK2015]Ci?cie  
+- [x] 4277: [ONTAK2015]Ci?cie  
 4294: [PA2015]Fibonacci  
 3070: [Pa2011]Prime prime power  
 4725: [POI2017]Reprezentacje ró?nicowe  
@@ -30,11 +30,11 @@
 - [x] 4381: [POI2015]Odwiedziny  差分，处理把根到某个点的路径，根号分治  
 - [x] 3747: [POI2015]Kinoman  参考树状数组数区间颜色，扫描线，第二次出现设为 -w, 再之后设为 0, 线段树求最大的线段  
 - [x] 3526: [Poi2014]Card  按线段树合并的顺序 DP ？  
-3102: Sgu512 Friendly Points  
+- [x] 3102: Sgu512 Friendly Points  https://widsnoy.top/posts/cd4/   
 - [x] 4017: 小Q的无敌异或  拆位，判断借位只用比较低位大小  
-4384: [POI2015]Trzy wie?e  
-3133: [Baltic2013]ballmachine  
-2491: Quelling Blade  
+- [x] 4384: [POI2015]Trzy wie?e  
+- [x] 3133: [Baltic2013]ballmachine  
+2491: Quelling Blade  2hd4me=.=  
 
 ## Codeforces Problemset
 - [x] 1178F1. Short Colorful Strip 实在不行就考虑 dp[l][r]  

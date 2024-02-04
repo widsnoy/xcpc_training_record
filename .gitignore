@@ -1,4 +1,7 @@
 **/.cph/
+*.in
+*.ans
+*.zip
 # Prerequisites
 *.d
 
