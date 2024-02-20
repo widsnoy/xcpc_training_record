@@ -15,11 +15,36 @@ typedef long double ld;
 const int mod = 998244353;
 const int N = 1e5 + 5;
 
-map<int, int> mp;
+map<int, int> nxt, pre;
 
 void MAIN() {
+    int n, cnt = 0;
     cin >> n;
-   
+    while (n--) {
+        int op, x, y;
+        cin >> op >> x;
+        if (op == 1) {
+            cin >> y;
+            ++cnt;
+            if (!nxt.count(y)) {
+                nxt[y] = x;
+                nxt[x] = 0;
+                pre[x] = y;
+                continue;
+            }
+            nxt[x] = nxt[y];
+            nxt[y] = x;
+            pre[nxt[x]] = x;
+            pre[x] = y;
+        } else {
+            --cnt;
+            nxt[pre[x]] = nxt[x];
+            pre[nxt[x]] = pre[x];
+        }
+    }
+    int u = nxt[0];
+    cout << cnt << '\n';
+    while (u) cout << u << ' ', u = nxt[u];
 }
 
 int main() {

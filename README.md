@@ -6,7 +6,7 @@
 - [x] 3735: [Pa2013]Konduktorzy 如果钦定一个位置，让所有人尽量走到这个位置之前，可以发现这个局面一定是会出现的，那么二分出一个尽量大的位置，即满足没有人已经走完。之后用堆模拟  
 - [x] 4348: [POI2016]Park wodny  
 4434: [Cerc2015]Ice Igloos  
-3750: [POI2015]Piecz??  
+- [x] 3750: [POI2015]Piecz??  
 4949: [Wf2017]Get a Clue!  
 4620: [Wf2016]What Really Happened on Mars?  
 4611: [Wf2016]Clock Breaking  
@@ -17,12 +17,12 @@
 4789: [CERC2016]Convex Contour  
 4064: [Cerc2012]The Dragon and the knights  
 - [x] 4277: [ONTAK2015]Ci?cie  
-4294: [PA2015]Fibonacci  
-3070: [Pa2011]Prime prime power  
+- [x] 4294: [PA2015]Fibonacci  
+- [x] 3070: [Pa2011]Prime prime power  
 4725: [POI2017]Reprezentacje ró?nicowe  
 4377: [POI2015]Kurs szybkiego czytania  
-3834: [Poi2014]Solar Panels  
-4095: [Usaco2013 Dec]The Bessie Shuffle  
+- [x] 3834: [Poi2014]Solar Panels  
+- [x] 4095: [Usaco2013 Dec]The Bessie Shuffle  
 
 ### 数据结构
 - [x] 3155: Preprefix sum  线段树维护等差数列  

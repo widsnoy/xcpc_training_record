@@ -2,6 +2,7 @@
 *.in
 *.ans
 *.zip
+*.txt
 # Prerequisites
 *.d
 
